@@ -37,4 +37,4 @@ This project analyzes customer data related to bike purchases using Microsoft Ex
 
 Bike Sales Dashboard
 Here's a quick snapshot of the dashboard built using Excel:
-![Bike Sales Dashboard](Images/Bike-sales-dashboard.png)
+![Bike Sales Dashboard](Images/Bike-Sales-Dashboard.png)
