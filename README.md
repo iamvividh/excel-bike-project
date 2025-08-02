@@ -34,4 +34,5 @@ This project analyzes customer data related to bike purchases using Microsoft Ex
 
 \- Slicers and Charts
 
-![Bike Sales Dashboard](images/Bike-sales-dashboard.png)
+
+![Bike Sales Dashboard](Images/Bike-sales-dashboard.png)
